@@ -1,6 +1,6 @@
 # Single Page CV
 
-A single-page CV built using semantic HTML as part of the roadmap.sh frontend projects.
+A single-page CV built using semantic HTML as part of a frontend project.
 
 ## Features
 - Semantic HTML structure
