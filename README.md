@@ -8,4 +8,5 @@ A single-page CV built using semantic HTML as part of a frontend project.
 - Accessible and readable without CSS
 
 ## Live Preview
-Coming soon
+(https://teatech-tbks.github.io/single-page-cv/
+)
