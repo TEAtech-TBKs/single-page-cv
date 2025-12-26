@@ -5,6 +5,7 @@ A single-page CV built using semantic HTML as part of the roadmap.sh Frontend pr
 ## Project Overview
 This project focuses on using proper semantic HTML structure, basic SEO meta tags,
 and Open Graph tags to create a clean and accessible CV page without CSS styling.
+https://roadmap.sh/projects/single-page-cv
 
 ## Live Project URL
 https://teatech-tbks.github.io/single-page-cv/
